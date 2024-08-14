@@ -24,17 +24,17 @@ Follow these steps to set up and run the app locally:
    git clone https://github.com/Pratip009/Dashboard_App.git
 
 2. **Navigate to the Project Directory**
-
+   ```bash
    cd Dashboard_App
 
 3. **Install Dependencies**
 
    Install the necessary dependencies using npm
-
+   ```bash
    npm install
 
 4. **Start the Development Server**
-
+   ```bash
    npm start
 
    This will start the app on http://localhost:3000 by default.
